@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SerenaGiumentaro
 - 👀 I’m interested in learnig to coding, specially for web developments
-- 🌱 I’m currently learning HTML and CSS language, and Iìm going to learn Javascript too.
+- 🌱 I’m currently learning HTML and CSS language, and I'm going to learn Javascript too.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me serena.giumentaro@gmail.com
 
