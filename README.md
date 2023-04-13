@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SerenaGiumentaro
 - 👀 I’m interested in learnig to coding, specially for web developments
-- 🌱 I’m currently learning HTML, CSS and Javascript, Typescript and Angular.
+- 🌱 I’m currently learning HTML, CSS and Javascript, Typescript, Angular and React.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me (https://www.linkedin.com/in/serenagiumentaro/)
 
