@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=serena-giumentaro&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=dracula"
+      src="https://github-readme-stats.vercel.app/api?username=SerenaGiumentaro&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=dracula"
     />
   </a>
 </p>
