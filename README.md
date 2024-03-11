@@ -6,13 +6,13 @@ You can click the Preview link to take a look at your changes.
 --->
 </br></br>
 <p align="center">
-  <a href="https://github.com/francesco-buscicchio">
+  <a href="https://github.com/SerenaGiumentaro">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SerenaGiumentaro&theme=dracula" alt="stats" />
   </a>
 </p>
 
 <p align="center">
-   <a href="https://github.com/francesco-buscicchio?tab=repositories">
+   <a href="https://github.com/SerenaGiumentaro?tab=repositories">
     <img
       align="center"
       height="165"
@@ -20,11 +20,11 @@ You can click the Preview link to take a look at your changes.
     />
   </a>
   
-  <a href="https://github.com/francesco-buscicchio?tab=repositories">
+  <a href="https://github.com/SerenaGiumentaro?tab=repositories">
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=francesco-buscicchio&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=dracula"
+      src="https://github-readme-stats.vercel.app/api?username=serena-giumentaro&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=dracula"
     />
   </a>
 </p>
